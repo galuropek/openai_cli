@@ -1,4 +1,4 @@
-# Simple OpenAi CLI Ruby Tool
+# Simple OpenAI CLI Ruby Tool
 
 A simple CLI tool for learning and experimenting with a OpenAI through its API.
 
