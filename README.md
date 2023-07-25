@@ -14,7 +14,7 @@ CHATGPT_ACCESS_TOKEN='<API_KEY>'
 
 ### Usage
 
-To use a simple CLI run the command above:
+Run the command below to start a simple CLI:
 ```bash
 ruby exe/app
 ```
